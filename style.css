@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    background-color: coral;
+    opacity: 0.7;
+}
+h1{
+    font-family: sans-serif;
+    justify-content: center;
+    display: flex;
+}
+form{
+    justify-content: center;
+    display: flex;
+}
+input{
+    background-color: bisque;
+    border: solid salmon;
+    outline: white;
+    height: 25px;
+    width: 500px;
+}
+.uldiv{
+    justify-content: center;
+    display: flex;
+    overflow:hidden ;
+}
+ul{
+    list-style: none;
+    width: 500px;
+}
+li{
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    
+}
