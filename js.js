@@ -34,6 +34,7 @@ function addTodo(todo){
         todoEl.remove()
         updateLS()
     })
+        
     todoUL.appendChild(todoEl)
     input.value = ' '
     updateLS()

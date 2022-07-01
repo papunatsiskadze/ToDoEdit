@@ -7,10 +7,12 @@ h1{
     font-family: sans-serif;
     justify-content: center;
     display: flex;
+    color: rgb(46, 1, 10);
 }
 form{
     justify-content: center;
     display: flex;
+    margin-top: 100px;
 }
 input{
     background-color: bisque;
@@ -32,6 +34,6 @@ li{
     margin-top: 10px;
     font-family: sans-serif;
     font-style: italic;
-    font-weight: bolder;
-    
+    font-weight: bolder;    
 }
+
